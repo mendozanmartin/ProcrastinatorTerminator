@@ -1,5 +1,11 @@
 # ProcrastinatorTerminator
 
+<p align="middle">  
+<img src="images/pie-chart.png" width="300" />
+  <img src="images/bar-chart.png" width="300" /> 
+  <img src="images/timer-table.png" width="300" />
+</p>
+
 ## Inspiration
 
 COVID-19 has infiltrated all of our lives, making it more difficult to get things done in the comfort of our own homes. Most of us are glued to our laptops and computers for a majority of the day, but between Zoom meetings and classes, we're likely wasting time on social media sites. The inspiration for this Google Chrome extension came from the fact that it's easy to lose track of how much time we're wasting when we're on our computers all day. Seeing this information in the form of a graph will help to snap us back to reality. We also believe that time spent on social media plays a huge role in health, which is a conversation that is more frequently brought up now that we're at home.
